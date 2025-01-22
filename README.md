@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @pratikmakwana10
+- 👋 Hi, I’m @pratikmakwana10 ![image](https://github.com/user-attachments/assets/5404cf62-b4ee-47f1-9c4a-9f5776964e87)
+
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Flutter Dart
 - 💞️ I’m looking to collaborate on ...
